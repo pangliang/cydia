@@ -1,0 +1,12 @@
+---
+
+---
+Origin: {{ site.cydia.title }}
+Label: {{ site.cydia.title }}
+Suite: stable
+Version: 1.0
+Codename: Wei Liang
+Support: http://weibo.com/iamliangwei
+Architectures: iphoneos-arm
+Components: main
+Description: {{ site.cydia.title }}

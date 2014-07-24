@@ -1,0 +1,57 @@
+Package: com.sharedream.answer-vibration
+Version: 1.3-1
+Architecture: iphoneos-arm
+Maintainer: liangwei <http://weibo.com/iamliangwei>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs//com.sharedream.answer-vibration_1.3-1_iphoneos-arm.deb
+Size: 23208
+MD5sum: e95e2dd658182d0189cc074fb21de3b3
+SHA1: 34a8a111ddc8fcf2d47417cb203d1c77d4af7e1a
+SHA256: 39c3d9be8eb334c0b8345ae45f13184aafdd0229c5fd56c51034cb90c55fe962
+Section: 装机必备
+Priority: optional
+Homepage: http://weibo.com/iamliangwei
+Description: 打电话无需贴近手机, 有效避免辐射危害!
+Author: liangwei <http://weibo.com/iamliangwei>
+Depiction: http://liang8305.github.com/cydia/depiction/answer-vibration/
+Icon: file:///Library/PreferenceLoader/Preferences/answer_vibrationIcon.png
+Name: 接听震动
+
+Package: com.sharedream.answer-vibration
+Version: 1.4-1
+Architecture: iphoneos-arm
+Maintainer: liangwei <http://weibo.com/iamliangwei>
+Depends: firmware (>= 5.0), sbsettings
+Filename: debs//com.sharedream.answer-vibration_1.4-1_iphoneos-arm.deb
+Size: 21446
+MD5sum: 10f4cc08d5c4121556affd89b5ebdb82
+SHA1: a78496b4970ee6b5d049a7fe2340b04db81f41ac
+SHA256: 86b5dab39ef22d9df754d346b0d665be7eeb06af550445f45456fc3dfc942f99
+Section: 装机必备
+Priority: optional
+Homepage: http://weibo.com/iamliangwei
+Description: 打电话无需贴近手机, 有效避免辐射危害!
+Author: liangwei <http://weibo.com/iamliangwei>
+Depiction: http://liang8305.github.com/cydia/depiction/answer-vibration/
+Icon: file:///Library/PreferenceLoader/Preferences/answer_vibrationIcon.png
+Name: 接听震动
+
+Package: com.sharedream.answer-vibration
+Version: 1.5-1
+Architecture: iphoneos-arm
+Maintainer: liangwei <http://weibo.com/iamliangwei>
+Depends: firmware (>= 5.0), preferenceloader
+Filename: debs//com.sharedream.answer-vibration_1.5-1_iphoneos-arm.deb
+Size: 21538
+MD5sum: 9952b4b6e56e5c80d929125dd88a596c
+SHA1: b07ebe81662a41a5064c166e7ef2520baa5371a9
+SHA256: 368e055c14a0505552c3291048796b3ff7ac21e4b491db119e24f558fc281e09
+Section: 装机必备
+Priority: optional
+Homepage: http://weibo.com/iamliangwei
+Description: 打电话无需贴近手机, 有效避免辐射危害!
+Author: liangwei <http://weibo.com/iamliangwei>
+Depiction: http://liang8305.github.com/cydia/depiction/answer-vibration/
+Icon: file:///Library/PreferenceLoader/Preferences/answer_vibrationIcon.png
+Name: 接听震动
+
