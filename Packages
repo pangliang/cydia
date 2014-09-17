@@ -55,3 +55,22 @@ Depiction: http://liang8305.github.com/cydia/depiction/answer-vibration/
 Icon: file:///Library/PreferenceLoader/Preferences/answer_vibrationIcon.png
 Name: 接听震动
 
+Package: com.sharedream.answer-vibration
+Version: 1.6-1
+Architecture: iphoneos-arm
+Maintainer: liangwei <http://weibo.com/iamliangwei>
+Depends: firmware (>= 5.0), com.saurik.substrate.safemode, mobilesubstrate, preferenceloader
+Filename: debs//com.sharedream.answer-vibration_1.6-1_iphoneos-arm.deb
+Size: 21450
+MD5sum: f22b8b2da15ed2397689542b94384b75
+SHA1: ea1a02900d21458643d579290f041092d0658bc4
+SHA256: 6ebd3aef20a5510491e0778160daf5f90666e09e44187f2f83bcdfe201a6517c
+Section: 装机必备
+Priority: optional
+Homepage: http://weibo.com/iamliangwei
+Description: 打电话无需贴近手机, 有效避免辐射危害!
+Author: liangwei <http://weibo.com/iamliangwei>
+Depiction: http://liang8305.github.com/cydia/depiction/answer-vibration/
+Icon: file:///Library/PreferenceLoader/Preferences/answer_vibrationIcon.png
+Name: 接听震动
+
